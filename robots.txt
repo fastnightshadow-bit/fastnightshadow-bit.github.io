@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://wonderoom.studio
+Sitemap: https://wonderoom.studio/sitemap.xml
